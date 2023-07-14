@@ -1,0 +1,6 @@
+[submodule "junit5"]
+	path = junit5
+	url = https://github.com/vinimrs/junit5
+[submodule "jabref"]
+	path = jabref
+	url = https://github.com/vinimrs/DC-UFSCar-ES2-202301-GrupoBugHunters.git
