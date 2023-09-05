@@ -4,3 +4,6 @@
 [submodule "github-flow"]
 	path = github-flow
 	url = https://github.com/vinimrs/github-flow
+[submodule "jabref"]
+	path = jabref
+	url = https://github.com/vinimrs/DC-UFSCar-ES2-202301-GrupoBugHunters
